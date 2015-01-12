@@ -7,9 +7,9 @@ Adds kinetic smooth scrolling (like MacOS, iOS and Android) to Brackets for devi
 
 ## Notes
 
-Only tested in sprint 34. If it works for you on an earlier version, please let me know so I can update the package.json file accordingly.
+Tested in sprint 1 build 1.1.0-15558.
 
-As of now, the scroll parameters are still hard coded and work well on my linux desktop with a microsoft optical mouse and on my linux laptop. If you need different parameters, it should be fairly straightforward to edit them in the main.js file. In the future, if there is enough interest I can add some menu options or some gui to change the scroll parameters (contributions are very welcome :D)
+Work well on windows 8.1.
 
 ## Install via URL
 
