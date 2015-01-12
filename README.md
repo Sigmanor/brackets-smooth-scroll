@@ -15,7 +15,7 @@ As of now, the scroll parameters are still hard coded and work well on my linux 
 
 `File > Install Extension`
 
-Paste https://github.com/hccampos/brackets-smooth-scroll into Extension URL field
+Paste https://github.com/Sigmanor/brackets-smooth-scroll-v2 into Extension URL field
 
 
 ## Alternative Install
