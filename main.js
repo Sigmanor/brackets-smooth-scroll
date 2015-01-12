@@ -12,12 +12,12 @@ define(function (require, exports, module) {
     // How much the force is to be reduced each 16 ms (60fps). For instance, if the value is 0.8,
     // after 16ms the force will be 80% of what is was initially, after 32ms it will be 0.64% of
     // the initial value, and so on.
-    var FORCE_REDUCTION_FACTOR = 0.2;
+    var FORCE_REDUCTION_FACTOR = 0.8;
     // Same as above but to reduce the speed of the page in order to simulate some kind of drag or
     // friction.
     var PSEUDO_FRICTION = 0.93;
     // Maximum magnitude of the force that can be applied to the page.
-    var MAX_FORCE = 0.08;
+    var MAX_FORCE = 0.02;
     // If the speed of the page goes below this value, we just won't update the scroll position and
     // we will stop the page.
     var SPEED_THRESHOLD = 0.001;
