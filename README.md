@@ -15,7 +15,7 @@ Work well on windows 8.1.
 
 `File > Install Extension`
 
-Paste https://github.com/Sigmanor/brackets-smooth-scroll-v2 into Extension URL field
+Paste https://github.com/Sigmanor/brackets-smooth-scroll into Extension URL field
 
 
 ## Alternative Install
